@@ -1,0 +1,15 @@
+# Personal Finance Manager - Python Dependencies
+# No external libraries required - uses Python standard library only
+# Python 3.8+ recommended
+
+# Standard library modules used:
+# - csv (data persistence)
+# - os (file operations)
+# - shutil (backup/restore)
+# - datetime (date validation)
+# - collections (defaultdict for reports)
+# - sys (path management)
+
+# Optional (for advanced charts feature):
+# matplotlib==3.8.0
+# pandas==2.1.0
